@@ -52,3 +52,15 @@ Each project is self-contained with its own HTML, CSS, and JavaScript files. Sim
 ## License
 
 These are educational projects based on Traversy Media tutorials.
+
+## Contributing
+
+Contributions are welcome — open an issue or submit a pull request.
+
+## Maintainer
+
+If you'd like to contribute or have questions, contact the maintainer listed in the repository.
+
+## Last Updated
+
+2026-05-22
